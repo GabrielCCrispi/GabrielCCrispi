@@ -21,15 +21,17 @@
     
   
   <h1 align="center">Social Media</h1>
+     <a href= "https://www.linkedin.com/in/gabriel-crispi-0028b0280/">
+       <img width="30" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg">
+     </a>   
+      <a href = "mailto: gabrielcrispi02@hotmail.com">
+        <img width="50" src="https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Logo.png">
+     </a>
      <a href = "https://www.instagram.com/gabriel_crispi/">
         <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
      </a>
-     <a href = "mailto: gabrielcrispi02@hotmail.com">
-        <img width="50" src="https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Logo.png">
-     </a>
-     <a href = "https://www.linkedin.com/in/gabriel-crispi-0028b0280/">
-        <img width="50" scr="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png">
-     </a>
+    
+  
 </div>
   
   
