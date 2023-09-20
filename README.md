@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Crispi👨‍💻
+## Hi, I`m Gabriel Crispi👨‍💻
 
 <div>
   <a href="https://github.com/GabrielCCrispi">
