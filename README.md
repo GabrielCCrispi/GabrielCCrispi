@@ -26,17 +26,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/node
     
   
   <h1 align="center">Social Media</h1> 
-     <a href= "https://www.linkedin.com/in/gabriel-crispi-0028b0280/">
-       <img width="30" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg">
+     <a href= "https://www.linkedin.com/in/gabriel-crispi-0028b0280/";>
+       <img style="width:30px;height:30px;"  src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg">
      </a>   
       <a href = "mailto: gabrielcrispi02@hotmail.com">
-        <img width="50" src="https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Logo.png">
+        <img height="30"; src="https://logosmarcas.net/wp-content/uploads/2021/02/Outlook-Logo.png">
      </a>
      <a href = "https://www.instagram.com/gabriel_crispi/">
-        <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
+        <img style="width:30px;height:30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png">
      </a>
     
-  
 </div>
   
   
