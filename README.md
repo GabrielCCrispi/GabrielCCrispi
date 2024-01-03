@@ -22,6 +22,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="VSCODE" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="BootsTrap" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="TypeScript" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
    </div>
     
   
