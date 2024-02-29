@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/GabrielCCrispi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielccrispi&show_icons=true&show_icons=true&theme=radical&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielccrispi&layout=compact&theme=radical"/>
+   <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielccrispi&show_icons=true&theme=great-gatsby&count_private=true" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielccrispi&layout=compact&theme=great-gatsby"/>
 </div>
 <br>
   
