@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/GabrielCCrispi">
-   <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielccrispi&show_icons=true&theme=dark&count_private=true" />
+   <img height="179em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielccrispi&show_icons=true&theme=blue-green&count_private=true" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielccrispi&layout=compact&theme=dark"/>
 </div>
 <br>
