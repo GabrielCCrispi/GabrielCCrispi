@@ -28,7 +28,10 @@
 const gabriel = {
   role: "Full-Stack Engineer @ Innovitas",
   focus: ["arquitetura multi-tenant", "APIs escaláveis", "mobile offline-first"],
-  currentlyBuilding: "VisAll — plataforma SaaS para força de vendas farmacêutica",
+  currentlyBuilding:
+    "VisAll — plataforma SaaS para força de vendas farmacêutica"
+    "Nutricloud - software de nutrição com assistente de IA "
+    "Vitafor University - plataforma de cursos,
   mindset: "do schema do banco até o pixel da tela",
   learningAlways: true,
 };
